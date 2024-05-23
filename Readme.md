@@ -1,3 +1,8 @@
+<p align="center">
+  <img align="right" src="tsmp.svg" alt="project logo" width="100"/>     
+</p>
+
+
 # Tool supported meta programming
 
 TSMP is a static reflection library that is implemented with C++20 and code generation with the help of libclang and cmake.
